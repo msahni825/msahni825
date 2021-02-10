@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Megha Sahni</h1>
 
-<!--
-**msahni825/msahni825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge/page_id+msahni825.msahni825)
 
-Here are some ideas to get you started:
+## Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So here's something about [me]gha
+I completed my M.tech(CSE), at IIIT Delhi. I like problem-solving & working on challenging projects. 
+
+- 🔭 I have worked with Ahuja Lab, IIIT Delhi. The lab studies the fundamental mechanism that links odorant chemistry to the cellular transcriptome(CHEMOINFORMATICS)
+- 🌱 I’m currently working with project that characterize the cells using Simulated Annealing.
+- 👯 I’m currently learning various new technology stack.
+- 💬 Ask me about anything. Willing to help.
+
+## Languages and Tools
+
+## Contact Me
+
+* Mail me on [Gmail](megha.sahni.cse.7@gmail.com)
+* Connect me on [LinkedIn](https://www.linkedin.com/in/megha-sahni/)
+* Follow me on [Twitter](meghasahni4)
+
+Thank you!!
