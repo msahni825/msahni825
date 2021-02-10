@@ -12,8 +12,6 @@ I completed my M.tech(CSE), at IIIT Delhi. I like problem-solving & working on c
 - 👯 I’m currently learning various new technology stack.
 - 💬 Ask me about anything. Willing to help.
 
-## Languages and Tools
-
 ## Contact Me
 
 * Mail me on [Gmail](megha.sahni.cse.7@gmail.com)
